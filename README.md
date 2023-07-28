@@ -1,3 +1,5 @@
+![image](https://github.com/krishnaprasad12/krishnaprasad12/assets/81025229/5acbaa45-7cfb-4a1d-849f-f7faea80c9b8)
+
 <h1 align="center">Hi 👋, I'm Krishna Prasad Y V S Purama</h1>
 <h3 align="center">A passionate Web, AI & ML, Salesforce Developer from India.</h3>
 
